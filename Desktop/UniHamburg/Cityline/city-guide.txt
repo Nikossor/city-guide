@@ -1,3 +1,5 @@
 Erste Änderung in city-guide.txt
 Zweite Änderung in city-guide.txt
 Dritte Änderung in city-guide.txt
+Neuer Eintrag ohne Titel
+Titel: Attraktion hinzufügen
